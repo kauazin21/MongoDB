@@ -11,6 +11,10 @@ Inclui funções para inserir, ler, atualizar e deletar documentos.
 
 ## Instalação
 1. Instale o `pymongo`:
+
+## USO
+- Criei funções usando def para para fazer o CRUD
+
 ```bash
 python -m pip install pymongo
 
